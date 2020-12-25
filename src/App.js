@@ -1,11 +1,11 @@
 import './App.css';
-import Greetings from './Greeting'
+import Greeting from './Greeting_Hooks'
 
 function App() {
   return (
     <div className="App">
       <p />
-      <Greetings />
+      <Greeting />
     </div>
   );
 }
